@@ -34,4 +34,4 @@ public:
     }
 };
 
-//i just skipped the info that the border did contribute to the perimeter as well, so did the reverse implementation with 4
+//i just skipped the info that the border did contribute to the perimeter as well, so did the reverse implementation with 4	
